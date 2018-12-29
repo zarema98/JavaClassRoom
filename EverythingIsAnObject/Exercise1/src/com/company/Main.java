@@ -2,7 +2,13 @@ package com.company;
 
 public class Main {
 
+
+
     public static void main(String[] args) {
-	// write your code here
+
+        new MyClass();
+//        System.out.println(testObject.getNumber());
+//        System.out.println(testObject.getSymbol());
+
     }
 }
