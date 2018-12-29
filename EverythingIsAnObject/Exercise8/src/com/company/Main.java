@@ -10,8 +10,5 @@ public class Main {
         second.i += 1;
 
         System.out.println("first.i (" + first.i+") == second.i (" + second.i + ")");
-
-
-
     }
 }

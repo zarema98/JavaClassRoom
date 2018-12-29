@@ -2,114 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2db18e5-4854-4feb-9e6c-e85f60fd5c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ControllingExecution/Exercise16/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControllingExecution/Exercise20/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControllingExecution/Exercise24/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise1/out/production/Exercise1/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise1/out/production/Exercise1/com/company/MyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise1/src/com/company/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise11/src/com/company/AllTheColorsOfTheRainbow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Documentation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Documentation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Documentation3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise14/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise14/src/com/company/Documentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise15/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise15/Exercise15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise16/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise16/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise16/Exercise16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise2/out/production/Exercise2/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/Exercise3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/out/production/Exercise3/com/company/ATypeName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/out/production/Exercise3/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/src/com/company/ATypeName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise3/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/Exercise4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/out/production/Exercise4/com/company/DataOnly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/out/production/Exercise4/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/src/com/company/DataOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise4/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/Exercise5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/out/production/Exercise5/com/company/DataOnly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/out/production/Exercise5/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/src/com/company/DataOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise5/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/Exercise6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/out/production/Exercise6/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/out/production/Exercise6/com/company/Storage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise6/src/com/company/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/Exercise7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/out/production/Exercise7/com/company/Incrementable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/out/production/Exercise7/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/out/production/Exercise7/com/company/StaticTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/src/com/company/Incrementable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise7/src/com/company/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/Exercise8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/out/production/Exercise8/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/out/production/Exercise8/com/company/StaticTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise8/src/com/company/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/Exercise9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/out/production/Exercise9/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise9/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Operators/Exercise12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Operators/Exercise4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Operators/Exercise8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Operators/Exercise8/Exercise8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise8/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +16,7 @@
     <session id="-458786559">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
@@ -255,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546039438882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546042013204" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
