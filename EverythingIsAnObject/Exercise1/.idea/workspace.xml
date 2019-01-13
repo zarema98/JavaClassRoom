@@ -2,12 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710ad455-3817-4382-8b50-38925080ade5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise4/src/com/company/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise4/src/net/learning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise8/Exercise8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise8/src/com/company/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AccessControl/Exercise8/src/com/company/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/AccesControl/Chapter6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/ControllingExecution/Chapter4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/EverythingIsAnObject/Chapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/InitializationAndCleanup/Chapter5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/Operators/Chapter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/Polymorphism/Chapter8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/ReusingClasses/Chapter7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/com/company/Chapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/com/company/ChapterEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FullProgram/src/com/company/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise4/src/com/company/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise8/Exercise8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InitializationAndCleanUp/Exercise8/src/com/company/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise12/Exercise12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise12/src/com/company/RandomRodentGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise12/src/com/company/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise16/src/com/company/Glyph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise16/src/com/company/RectangularGlyph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise16/src/com/company/RoundGlyph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise4/src/com/company/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise4/src/com/company/RandomShapeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise4/src/com/company/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise4/src/com/company/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise4/src/com/company/Trapezium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise4/src/com/company/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise8/src/com/company/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise8/src/com/company/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Exercise8/src/com/company/RandomInstrumentGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise12/src/com/company/Component1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise12/src/com/company/Component2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise12/src/com/company/Component3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise12/src/com/company/Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise12/src/com/company/Stem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise16/Exercise16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise16/src/com/company/Amphibian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise16/src/com/company/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise20/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise20/src/com/company/OverridingPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise20/src/com/company/OverridingPrivate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise20/src/com/company/WithFinals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise24/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise24/src/com/company/Beetle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise24/src/com/company/GroundBeetle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise24/src/com/company/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise4/src/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise4/src/com/company/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise8/Exercise8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise8/src/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReusingClasses/Exercise8/src/com/company/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operators/Exercise8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Operators/Exercise8/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,9 +92,10 @@
     <session id="1315979037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -51,14 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="273">
               <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,11 +156,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,6 +198,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545510973252" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,28 +240,23 @@
       <option name="presentableId" value="Default" />
       <updated>1545507933352</updated>
       <workItem from="1545507936798" duration="2186000" />
+      <workItem from="1546814816955" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2186000" />
+    <option name="totallyTimeSpent" value="2799000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
@@ -201,15 +264,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -248,23 +316,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
